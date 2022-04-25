@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Worked with class structures by creating 2 new files that is used in main.py.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none 
 
 ## REFERENCES:
-[(https://www.w3schools.com/python/ref_func_max.asp) ]
+(https://www.w3schools.com/python/ref_func_max.asp)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+beep
